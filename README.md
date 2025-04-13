@@ -1,4 +1,3 @@
-<!-- Banner opcional -->
 <h1 align="center">Hi there 👋, I'm Ginaldo</h1>
 <p align="center">🚀 Developer | ⚙️ Systems Enthusiast | 🎮 Game Dev Curious</p>
 

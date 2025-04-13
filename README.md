@@ -30,9 +30,6 @@
   <a href="https://www.linkedin.com/in/ginaldo-ara%C3%BAjo-53355034b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Ginaldo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---

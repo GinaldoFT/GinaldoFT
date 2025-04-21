@@ -44,7 +44,7 @@
 ### 📫 Connect with me
 
 <p>
-  <a href="mailto:ginaldofrancinco@gmail.com">
+  <a href="mailto:ginaldoaraujo18.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ginaldo-ara%C3%BAjo-53355034b/">

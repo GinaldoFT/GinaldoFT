@@ -39,10 +39,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-
-### ⚡ Fun facts
-- Reverse engineering is my idea of fun 🔍  
-- Coffee = productivity ☕  
-- I debug in my dreams sometimes 😴  
-- I write commit messages like poetry (occasionally)

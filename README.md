@@ -17,7 +17,8 @@
 ### 42 School Projects
 <div align="center">
 
-<a href="https://github.com/GinaldoFT/Libft">![42 Badge](https://github.com/GinaldoFT/GinaldoFT/tree/main/42Badges/libfte.png)</a>
+<a href="https://github.com/GinaldoFT/Libft">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/libfte.png)
+<a href="https://github.com/GinaldoFT/ft_printf">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/ft_printfe.png)
 
 ---
 
@@ -39,25 +40,6 @@
   </a>
 </p>
 
----
-
-### 👀 I’m interested in:
-- Systems programming (C, C++)
-- Game development and graphics
-- CLI tools and dev productivity
-- Low-level libraries and OS concepts
-
-### 🌱 Currently learning:
-- Rust 🦀
-- Linux internals
-- Compiler theory and optimization
-
-### 💞️ Looking to collaborate on:
-- Retro emulators or small game engines
-- Automation tools for C development
-- Minimalist testing frameworks
-
----
 
 ### ⚡ Fun facts
 - Reverse engineering is my idea of fun 🔍  

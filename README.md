@@ -24,7 +24,7 @@
 
 <a href="https://github.com/GinaldoFT/Libft">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/libfte.png)
 <a href="https://github.com/GinaldoFT/ft_printf">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/ft_printfe.png)
-<a href="https://github.com/GinaldoFT/get_next_line">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/get_next_linen.png)
+<a href="https://github.com/GinaldoFT/get_next_line">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/get_next_linee.png)
 
 </div>
 

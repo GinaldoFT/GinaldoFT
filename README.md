@@ -14,6 +14,13 @@
 
 ---
 
+### 42 School Projects
+<div align="center">
+
+<a href="https://github.com/GinaldoFT/Libft">![42 Badge](https://github.com/GinaldoFT/GinaldoFT/tree/main/42Badges/libfte.png)</a>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ginaldo&show_icons=true&theme=radical" height="150" />

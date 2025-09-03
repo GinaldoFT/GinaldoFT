@@ -2,13 +2,12 @@
 <p align="center">🚀 Developer | ⚙️ Systems Enthusiast | 🎮 Game Dev Curious</p>
 
 ---
+
 <div align="center">
-  
+
 ### 🧰 Languages & Tools
 
-</div>
-
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -18,44 +17,35 @@
 
 ---
 
-<div align="center">
-
 ### 42 School Projects
 
-<a href="https://github.com/GinaldoFT/Libft">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/libfte.png)
-<a href="https://github.com/GinaldoFT/ft_printf">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/ft_printfe.png)
-<a href="https://github.com/GinaldoFT/get_next_line">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/get_next_linee.png)
-<a href="https://github.com/GinaldoFT/Born2beroot">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/born2beroote.png)
-<a href="https://github.com/GinaldoFT/so_long">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/so_longm.png)
-<a href="https://github.com/GinaldoFT/pipex">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/pipexe.png)
-<a href="https://github.com/GinaldoFT/push_swap">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/push_swape.png)
-<a href="https://github.com/GinaldoFT/philosophers">![42 Badge](https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/philosopherse.png)
-
-</div>
+<p>
+  <a href="https://github.com/GinaldoFT/Libft"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/libfte.png" alt="Libft" /></a>
+  <a href="https://github.com/GinaldoFT/ft_printf"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/ft_printfe.png" alt="ft_printf" /></a>
+  <a href="https://github.com/GinaldoFT/get_next_line"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/get_next_linee.png" alt="get_next_line" /></a>
+  <a href="https://github.com/GinaldoFT/Born2beroot"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/born2beroote.png" alt="Born2beroot" /></a>
+  <a href="https://github.com/GinaldoFT/so_long"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/so_longm.png" alt="so_long" /></a>
+  <a href="https://github.com/GinaldoFT/pipex"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/pipexe.png" alt="pipex" /></a>
+  <a href="https://github.com/GinaldoFT/push_swap"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/push_swape.png" alt="push_swap" /></a>
+  <a href="https://github.com/GinaldoFT/philosophers"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/philosopherse.png" alt="philosophers" /></a>
+</p>
 
 ---
 
-<div align="center">
-  
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GinaldoFT&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![mcombeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=GinaldoFT&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinaldoFT&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GinaldoFT&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true" />
+</p>
 
 ---
-
-<div align="center">
 
 ### 📫 Connect with me
 
 <p>
-  <a href="mailto:ginaldoaraujo18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ginaldo-ara%C3%BAjo-53355034b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="mailto:ginaldoaraujo18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ginaldo-ara%C3%BAjo-53355034b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 </div>

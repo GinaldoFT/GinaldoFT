@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Makefile-064F8C?style=flat&logo=gnu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---

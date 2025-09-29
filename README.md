@@ -28,6 +28,7 @@
   <a href="https://github.com/GinaldoFT/pipex"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/pipexe.png" alt="pipex" /></a>
   <a href="https://github.com/GinaldoFT/push_swap"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/push_swape.png" alt="push_swap" /></a>
   <a href="https://github.com/GinaldoFT/philosophers"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/philosopherse.png" alt="philosophers" /></a>
+  <a href="https://github.com/GinaldoFT/minishell"><img src="https://raw.githubusercontent.com/GinaldoFT/GinaldoFT/main/42Badges/minishelle.png" alt="minishell" /></a>
 </p>
 
 ---

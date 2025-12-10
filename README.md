@@ -37,10 +37,20 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinaldoFT&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=GinaldoFT&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GinaldoFT&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GinaldoFT&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GinaldoFT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/GinaldoFT?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/GinaldoFT?style=for-the-badge" />
+</p>
+
 
 ---
 

@@ -38,8 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://stats.ginaldo.pt/api/top-langs?username=GinaldoFT&layout=compact&theme=tokyonight" />
-  <img src="https://stats.ginaldo.pt/api?username=GinaldoFT&show_icons=true&theme=tokyonight" />
+  <img src="https://stats.ginaldo.pt/api/cards/profile-details?username=GinaldoFT&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://stats.ginaldo.pt/api/cards/repos-per-language?username=GinaldoFT&theme=tokyonight" />
+  <img src="https://stats.ginaldo.pt/api/cards/stats?username=GinaldoFT&theme=tokyonight" />
 </p>
 
 <p align="center">
